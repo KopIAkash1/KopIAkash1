@@ -1,6 +1,6 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KopIAkash1/KopIAkash1/snakes/github-contribution-grid-snake-dark.svg" />
- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KopIAkash1/KopIAkash1/snakes/github-contribution-grid-snake.svg" />
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FirstAfterGod2501/FirstAfterGod2501/snakes/github-contribution-grid-snake-dark.svg" />
+ <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FirstAfterGod2501/FirstAfterGod2501/snakes/github-contribution-grid-snake.svg" />
  <img alt="github-snake" src="https://raw.githubusercontent.com/KopIAkash1/KopIAkash1/snakes/github-contribution-grid-snake.svg" />
 </picture>
 <br/> <br/>
