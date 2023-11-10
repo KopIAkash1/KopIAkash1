@@ -5,13 +5,25 @@
 </picture>
 <br/> <br/>
 
-### Welcome, to KopIAkash1 git!
+### Hi there 👋
 
 ###### **Wow, you're visitor number**
 
 <img src="https://profile-counter.glitch.me/KopIAkash1/count.svg" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KopIAkash1&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
+
+
+<!--
+**FirstAfterGod2501/FirstAfterGod2501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 ## 📈 GitHub Stats 
 <div align="center">
 	
